@@ -1,3 +1,3 @@
 # CakeShop
 
-Cakeshop template using HTML%, CSS, Bootstrap, Javascript
+Cakeshop template using HTML5, CSS, Bootstrap, Javascript
